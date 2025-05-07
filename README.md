@@ -12,13 +12,29 @@ This is a fun and interactive virtual drum kit built using **HTML**, **CSS**, an
 
 ## 📁 Project Structure
 
-drum-kit-mini-project/
-├── index.html # Main HTML file
-├── styles.css # Styling using CSS
-├── script.js # JavaScript logic for sound and animation
-├── sounds/ # Drum sound files (.mp3)
-└── images/ # Button background images (.png)
-
+drum-kit/
+├── index.html          # Main HTML file (with footer)
+├── styles.css          # Styling using CSS
+├── script.js           # JavaScript logic for sound and animation
+├── README.md           # Project documentation
+├── images/             # Contains background images and screenshot
+│   ├── tom1.png
+│   ├── tom2.png
+│   ├── tom3.png
+│   ├── tom4.png
+│   ├── snare.png
+│   ├── crash.png
+│   ├── kick.png
+│   └── drumkit-screenshot.png
+├── sounds/             # Contains all drum sound files
+│   ├── tom-1.mp3
+│   ├── tom-2.mp3
+│   ├── tom-3.mp3
+│   ├── tom-4.mp3
+│   ├── snare.mp3
+│   ├── crash.mp3
+│   └── kick-bass.mp3
+└── LICENSE             # License file
 
 ---
 
