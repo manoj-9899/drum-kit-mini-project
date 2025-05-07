@@ -11,7 +11,7 @@ This is a fun and interactive virtual drum kit built using **HTML**, **CSS**, an
 ---
 
 ## 📁 Project Structure
-
+```
 drum-kit/
 ├── index.html          # Main HTML file (with footer)
 ├── styles.css          # Styling using CSS
@@ -35,7 +35,7 @@ drum-kit/
 │   ├── crash.mp3
 │   └── kick-bass.mp3
 └── LICENSE             # License file
-
+```
 ---
 
 ## 🔑 Controls
